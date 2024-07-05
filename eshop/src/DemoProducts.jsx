@@ -61,5 +61,4 @@ const DemoProducts = [
         description: 'Description for product 6'
     }
 ];
-export const me = 67;
 export default DemoProducts;
